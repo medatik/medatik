@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamed
 - 👀 I’m interested in Back End
-- 🌱 I’m currently learning Inertia
+- 🌱 I’m currently learning ExpressJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mohamed.atikeddine@gmail.com | +212 614600643
 
